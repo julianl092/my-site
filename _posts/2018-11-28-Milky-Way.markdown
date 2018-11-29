@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Milky Way - Tende, France"
+date:   2018-11-15 20:27:37 -0500
+categories: jekyll update
+excerpt_separator: <!--more-->
+
+---
+
+<img src= "https://thumb.grindnetworks.com/swfXd9dbZc6L3Je5cPlQn9_RSu4=/970x0/filters:format(jpg):quality(80):max_bytes(500000):sharpen(0.2%2C1%2Cfalse):strip_exif():strip_icc()/aHR0cHM6Ly9jZG4uYWR2ZW50dXJlc3BvcnRzbmV0d29yay5jb20vdXBsb2Fkcy8yMDE3LzAzL2RlbmlzLWRlZ2lvYW5uaS5qcGc=">
+
+<!--more-->
+
+
